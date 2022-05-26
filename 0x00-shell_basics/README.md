@@ -1,2 +1,2 @@
-0-current_working_directory
-1-listit
+man [0-current_working_directory]
+man [1-listit]
