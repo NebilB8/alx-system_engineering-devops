@@ -1,6 +1,5 @@
 #Project 0x03. Shell, init files, variables and expansions
 ##Description
-This project builds upon previous knowledge with the introduction of [Expansions](http://linuxcommand.org/lc3_lts0080.php), [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html), [Variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html), [Shell initialization files](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html) and [The alias Command](http://www.linfo.org/alias.html).
 
 New commands introduced in this project include:
 `printenv`, `set`, `unset`, `export`, `alias`, `unalias`, `.`, `source`, `printf`
