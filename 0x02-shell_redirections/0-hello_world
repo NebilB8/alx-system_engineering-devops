@@ -1,2 +1,2 @@
 #!/bin/bash
-$(printf "Hello, World\n" > 0-hello_world) cat -e 0-hello_world
+printf "Hello, World\n"
